@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layoutPadding">15dp</dimen>
+    <dimen name="defaultMargin">8dp</dimen>
+    <dimen name="textViewTextSize">50sp</dimen>
+    <dimen name="toggleButtonTextSize">20sp</dimen>
+    <dimen name="ButtonTextSize">26sp</dimen>
+</resources>
