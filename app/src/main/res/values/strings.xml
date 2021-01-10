@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">GBAndroidBasicHomeWork</string>
+    <string name="app_name">HomeWork 1</string>
+    <string name="text">text</string>
+    <string name="textpersonname">textPersonName</string>
+    <string name="phone">phone</string>
+    <string name="number">number</string>
+    <string name="textpassword">textPassword</string>
+    <string name="textemailaddress">textEmailAddress</string>
+    <string name="back">Back</string>
+    <string name="textViewText">Homework 1</string>
+    <string name="editTextHint">put some text</string>
+    <string name="buttonText">To second activity</string>
+    <string name="switchText">Switch</string>
+    <string name="checkboxText">CheckBox</string>
+    <string name="togglebuttonText">ToggleButton</string>
 </resources>
